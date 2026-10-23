@@ -55,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/sajalindia1234-source/my_progress/tree/master/0039-combination-sum) |
+## Math
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/sajalindia1234-source/my_progress/tree/master/1922-count-good-numbers) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/sajalindia1234-source/my_progress/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
