@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sajalindia1234-source/my_progress/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sajalindia1234-source/my_progress/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sajalindia1234-source/my_progress/tree/master/0216-combination-sum-iii) |
+| [0455-assign-cookies](https://github.com/sajalindia1234-source/my_progress/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -88,4 +89,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sajalindia1234-source/my_progress/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sajalindia1234-source/my_progress/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sajalindia1234-source/my_progress/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sajalindia1234-source/my_progress/tree/master/0455-assign-cookies) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/sajalindia1234-source/my_progress/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
