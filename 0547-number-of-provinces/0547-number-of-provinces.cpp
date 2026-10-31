@@ -3,9 +3,9 @@ public:
 
 
 
-bool BFS(int start, vector<vector<int>>& isConnected, int n,vector<bool> &visited,queue<int> &q) {
+bool BFS(int start, vector<vector<int>>& isConnected, int n,vector<bool> &visited) {
 
-
+queue<int> q;
     if(visited[start])return false;
     else
      visited[start] = true;
@@ -30,10 +30,9 @@ bool BFS(int start, vector<vector<int>>& isConnected, int n,vector<bool> &visite
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n = isConnected[0].size();
         vector<bool> visited(n, false);
-        queue<int> q;
         int count=0;
         for(int i =0; i<n;i++){
-if(BFS(i,isConnected,n,visited,q))count++;
+if(BFS(i,isConnected,n,visited))count++;
 
         }
 
