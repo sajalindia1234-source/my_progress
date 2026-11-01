@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/sajalindia1234-source/my_progress/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/sajalindia1234-source/my_progress/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/sajalindia1234-source/my_progress/tree/master/0860-lemonade-change) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sajalindia1234-source/my_progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
 |  |
 | ------- |
@@ -117,4 +118,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sajalindia1234-source/my_progress/tree/master/0547-number-of-provinces) |
+## Sliding Window
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sajalindia1234-source/my_progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Prefix Sum
+|  |
+| ------- |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sajalindia1234-source/my_progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 <!---LeetCode Topics End-->
