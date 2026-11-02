@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sajalindia1234-source/my_progress/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/sajalindia1234-source/my_progress/tree/master/0216-combination-sum-iii) |
 | [0455-assign-cookies](https://github.com/sajalindia1234-source/my_progress/tree/master/0455-assign-cookies) |
+| [0704-binary-search](https://github.com/sajalindia1234-source/my_progress/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/sajalindia1234-source/my_progress/tree/master/0860-lemonade-change) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sajalindia1234-source/my_progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Backtracking
@@ -126,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sajalindia1234-source/my_progress/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/sajalindia1234-source/my_progress/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
